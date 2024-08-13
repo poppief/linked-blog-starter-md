@@ -1,0 +1,2 @@
+- Neff article on how to do self compassion
+- Add items together not use cfa
